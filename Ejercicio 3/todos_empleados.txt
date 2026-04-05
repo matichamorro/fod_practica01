@@ -1,0 +1,7 @@
+8 19 3641 Chamorro Matias
+7 83 -71 Costa Leon
+5 19 -23248 Barberena Francisco
+2 17 -27895 Chamorro Melina
+6 14 -21830 Chamorro Manuel
+1 72 26205 Amichetti Estela
+23 89 0 Chamorro Miguel Angel
